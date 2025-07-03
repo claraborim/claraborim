@@ -71,3 +71,11 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraborim&theme=chartreuse-dark&layout=compact&hide_border=true&custom_title=Technologies&langs_count=9"
   />
 </p>
+
+---
+
+<br/>
+
+- 🎓 I'm a student at [FATEC](https://fatecsorocaba.cps.sp.gov.br/)
+- 📚 I’m currently learning **Web Development, Programming Logic, Algorithms, Git/GitHub**
+- 🚀 Always seeking continuous learning and opportunities to grow in the development field.
