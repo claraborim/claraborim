@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7fff00&center=true&vCenter=true&random=true&width=435&lines=Hey,+I'm+Clara;Systems+Analysis+and+Development+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7fff00&center=true&vCenter=true&random=true&width=435&lines=Hey,+I'm+Clara.;Systems+Analysis+and+Development+Student.;" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHZkZG5lamJrNWs5amhham01YThsMHFiMGwxOW5waWgyaGlsMnZ2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1hCn9kUdtA65wDSvXI/giphy.gif"
 />
 
-### 💻 Programming Languages and Technologies
+### 💻 Langs and Technologies
 
 <img
   align="left"
