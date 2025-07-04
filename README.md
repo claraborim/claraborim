@@ -73,7 +73,7 @@ Langs and Technologies
   <img
     alt="Most used languages"
     height="135"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraborim&theme=dark&layout=compact&hide_border=true&custom_title=Most Used Languages&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraborim&theme=dark&layout=compact&hide_border=true"
   />
 </p>
 
