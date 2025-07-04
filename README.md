@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=7fff00&center=true&vCenter=true&random=true&width=435&lines=Hey,+I'm+Clara.;Systems+Analysis+and+Development+Student.;" alt="Typing SVG" />
 </p>
 
----
-
 <img
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUzZmtoYmVxM2d5bTFoYTluaGVxajlxc3I2dnQyaXo4Znpndm9ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U3CD2wlZei1zlt7SDj/giphy.gif"
   alt="Wither painting"
