@@ -13,7 +13,7 @@
 />
 
 <p align="left">
-Student at FATEC ▸ 18y ▸ she/her
+Student at FATEC ▸ 19y ▸ she/her
 <br><br>
 I’m currently learning web dev, programming logic, algorithms, git/github.
 </p>
