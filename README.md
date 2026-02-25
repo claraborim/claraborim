@@ -2,10 +2,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://readme-typing-svg.demolab.com?&size=35&pause=1000&color=abd200&center=true&width=400&heigh=40&lines=Hey%2C+I'm+Clara!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?&size=30&pause=1000&color=abd200&center=true&width=350&heigh=40&lines=Hey%2C+I'm+Clara!" alt="Typing SVG" />
         <a href="https://git.io/typing-svg">
         </a>
-        <img src="https://media1.tenor.com/m/Wi3Z8MXXZmQAAAAd/giant-spider-paladin.gif" width="400" />
+        <img src="https://media1.tenor.com/m/Wi3Z8MXXZmQAAAAd/giant-spider-paladin.gif" width="250" />
       </td>
       <td valign="top">
         <p>tech enthusiast ➧ 19y ➧ she/her
