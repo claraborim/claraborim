@@ -8,7 +8,7 @@
         <img src="https://media1.tenor.com/m/Wi3Z8MXXZmQAAAAd/giant-spider-paladin.gif" width="150" />
       </td>
       <td valign="top">
-        <br><br>
+        <br>
         <p>tech enthusiast ➧ 19y ➧ she/her
         <br><br>
         I am currently compiling my skills as an Analysis and Systems Development student at FATEC, aiming to build a career in software development. My learning stack is focused on backend development with C and C#/.NET, supported by a basic frontend foundation in HTML and CSS. I also have a strong passion for retro tech.
